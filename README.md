@@ -1,4 +1,4 @@
-# React Post App
+# XHR Demo
 
 This is a simple React application that allows users to view a list of posts fetched from an API and add new posts.
 
