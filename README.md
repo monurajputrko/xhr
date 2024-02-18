@@ -44,22 +44,7 @@ This is a simple React application that allows users to view a list of posts fet
 
 - New posts are added using a POST request to the same API endpoint.
 
-## Folder Structure
 
-react-post-app/
-│
-├── src/
-│ ├── App.js
-│ ├── App.css
-│ ├── index.js
-│ └── ...
-│
-├── public/
-│ ├── index.html
-│ └── ...
-│
-├── README.md
-└── package.json
 
 #Demo
 https://xhr-pi.vercel.app/
