@@ -7,7 +7,7 @@ This is a simple React application that allows users to view a list of posts fet
 1. **Clone the repository:**
 
     ```bash
-    git clone [<repository-url>](https://github.com/monurajputrko/xhr.git)
+    git clone https://github.com/monurajputrko/xhr.git
     ```
 
 2. **Navigate to the project directory:**
